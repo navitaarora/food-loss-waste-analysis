@@ -42,7 +42,7 @@ A Pareto analysis of the 586 high-loss records (20% or more) showed that six of 
 ## Repository Contents
 
 ```  
-food-loss-waste-analysis/  
+food-loss-waste-analysis
 ├── README.md  
 ├── docs
 │   └── Food_Loss_and_Waste_Analysis_Report.pdf  
