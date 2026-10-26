@@ -35,7 +35,7 @@ A Pareto analysis of the 586 high-loss records (20% or more) showed that six of 
 
 * Medians are not weighted by production volume, so they show reported loss.
 * Some countries, commodities, and stages have few records, so their medians are less stable, and years 2022 to 2024 also have fewer records.
-* Loss and waste are reported in a single field, `loss\_percentage`, so they are not separated.
+* Loss and waste are reported in a single field, `loss\_percentage`.
 * Whole-supply-chain, World, and regional aggregate rows are excluded to avoid double counting.
 * A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for pareto analysis.
 
