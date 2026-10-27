@@ -1,4 +1,4 @@
- **Food Loss and Waste Analysis (2000-2024)**
+## **Food Loss and Waste Analysis (2000-2024)**
 
 ### **Where Reported Loss Concentrates: Pareto Analysis**
 
