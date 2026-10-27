@@ -71,7 +71,8 @@ The 80% line is crossed at the sixth stage. The first five stages cover 76.79%, 
 
 * Medians are not weighted by production volume, so they show typical reported loss, not total food lost.
 * Some countries, commodities, and stages have few records, so their medians are less stable, and years 2022 to 2024 also have fewer records.
-* Whole-supply-chain, World, and regional aggregate rows are excluded to avoid double counting.
+* Whole-supply-chain, World, and regional aggregate rows are excluded to avoid double- counting errors.
+* The dataset only provides 'loss_percentage' for all stages.
 * A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for Pareto analysis.
 
 ## Repository Contents
