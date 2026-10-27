@@ -19,7 +19,7 @@
 5. Loss % was presented as the median by stage, commodity, and year; record counts were shown by country. The median was used because the values are skewed.
 6. Visualisation:  Interactive Tableau dashboard.
 7. Pareto analysis: the records with a loss of 20% or more were tallied by stage to see where the high loss records were concentrated.
-8. Validation: all the figures have been checked against the raw data, and the limitations of the project was noted.  
+8. Validation: all the figures have been checked against the raw data, and the limitations of the project were noted.  
 Dashboard: https://public.tableau.com/views/FoodLossandWasteAnalysis/FoodLossandWasteAnalysis
 
 **Key Insights**
@@ -41,14 +41,14 @@ Pareto Analysis Link: https://public.tableau.com/views/FoodLossandWasteAnalysis/
 
 ## Repository Contents
 
-```  
-food-loss-waste-analysis
-├── README.md  
-├── docs
-│   └── Food_Loss_and_Waste_Analysis_Report.pdf  
-└── images 
-├── dashboard.png  
-└── pareto.png  
+```
+food-loss-waste-analysis/
+├── README.md
+├── docs/
+│   └── Food_Loss_and_Waste_Analysis_Report.pdf
+└── images/
+    ├── dashboard.png
+    └── pareto.png
 ```
 
 Made by: Navita Arora
