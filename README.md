@@ -20,7 +20,7 @@
 
 ## **Methodology**
 
-1. **Data Collection:** Obtained the FAO Food Loss and Waste Database, covering reported food loss  from 2000-2024.
+1. **Data Collection:** Downloaded the FAO Food Loss and Waste Database, covering reported food loss  from 2000-2024.
 
 2. **Data Cleaning:** Removed exact duplicate rows and rows with missing food supply-chain stages, reducing the dataset from 31,455 raw rows to 27,884 rows. Retained nine relevant fields out of the original 18 columns for analysis.
 
