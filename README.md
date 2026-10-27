@@ -30,7 +30,7 @@ Dashboard: https://public.tableau.com/views/FoodLossandWasteAnalysis/FoodLossand
 * The number of records by country is uneven. India (1,233 records), Ethiopia (992), and Kenya (909) dominate, which limits country-level comparison.
 
 A Pareto analysis of the 586 high-loss records (20% or more) showed that six of the 19 stages account for 83.6% of them, with Retail the largest at 23%.
-
+Pareto Analysis Link: https://public.tableau.com/views/FoodLossandWasteAnalysis/ParetoAnalysisofHigh-LossRecordsbyFoodSupplyStage
 ## **Limitations**
 
 * Medians are not weighted by production volume, so they show reported loss.
