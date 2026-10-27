@@ -35,7 +35,7 @@ Pareto Analysis Link: https://public.tableau.com/views/FoodLossandWasteAnalysis/
 
 * Medians are not weighted by production volume, so they show reported loss.
 * Some countries, commodities, and stages have few records, so their medians are less stable, and years 2022 to 2024 also have fewer records.
-* Loss and waste are reported in a single field, `loss_percentage`, so they are not separated.
+* Loss and waste are reported in a single field, `loss_percentage`.
 * Whole-supply-chain, World, and regional aggregate rows are excluded to avoid double counting.
 * A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for pareto analysis.
 
