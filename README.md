@@ -2,7 +2,7 @@
 
 ### **Where Reported Loss Concentrates: Pareto Analysis**
 
-**Project Overview:** This project analyses the FAO Food Loss and Waste Database (2000 to 2024) to examine reported food-loss patterns across countries, commodities, years, and supply-chain stages.  It uses 21,777 records from 115 countries across 19 supply-chain stages, and the findings are presented in an interactive Tableau Public dashboard. Pareto analysis of high-loss records (reported loss of 20% or more) identifies the stages where they concentrate.
+**Project Overview:** This project analyses the FAO Food Loss and Waste Database (2000 - 2024) to examine reported food-loss patterns across countries, commodities, years, and supply-chain stages.  It uses 21,777 records from 115 countries across 19 supply-chain stages, and the findings are presented in an interactive Tableau Public dashboard. Pareto analysis of high-loss records (reported loss of 20% or more) identifies the stages where they concentrate.
 
 ## Tools 
 
