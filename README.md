@@ -55,14 +55,16 @@ Pareto Analysis: https://public.tableau.com/views/FoodLossandWasteAnalysis/Paret
 A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for the Pareto analysis. 
 
 **Key Insights**
-*A Pareto analysis of the 586 high-loss records (20% or more) showed that six of the 19 stages account for 83.6% of them, with Retail the largest at 23.04%.
+
+A Pareto analysis of the 586 high-loss records (20% or more) showed that six of the 19 stages account for 83.6% of them, with Retail the largest at 23.04%.
 High-loss records are concentrated. 
 
-*Out of 586 high-loss records, six stages hold 83.62%: Retail, Storage, Farm, Households, Post-harvest, and Harvest.
 
-*Retail is the largest contributor. It accounts for 135 records (23.0%).
+Out of 586 high-loss records, six stages hold 83.62%: Retail, Storage, Farm, Households, Post-harvest, and Harvest.
 
-*The 80% line is crossed at the sixth stage. The first five stages cover 76.79%, and adding Harvest makes the total 83.62%.
+Retail is the largest contributor. It accounts for 135 records (23.0%).
+
+The 80% line is crossed at the sixth stage. The first five stages cover 76.79%, and adding Harvest makes the total 83.62%.
 
 
 ## **Limitations**
