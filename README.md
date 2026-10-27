@@ -54,20 +54,20 @@ Pareto Analysis: https://public.tableau.com/views/FoodLossandWasteAnalysis/Paret
 
 A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for the Pareto analysis. 
 **Key Insights**
-A Pareto analysis of the 586 high-loss records (20% or more) showed that six of the 19 stages account for 83.6% of them, with Retail the largest at 23%.
+*A Pareto analysis of the 586 high-loss records (20% or more) showed that six of the 19 stages account for 83.6% of them, with Retail the largest at 23.04%.
 High-loss records are concentrated. 
-Out of 586 high-loss records, six stages hold 83.62%: Retail, Storage, Farm, Households, Post-harvest, and Harvest.
-Retail is the largest contributor. It accounts for 135 records (23.0%).
-The 80% line is crossed at the sixth stage. The first five stages cover 76.79%, and adding Harvest makes the total 83.62%.
+*Out of 586 high-loss records, six stages hold 83.62%: Retail, Storage, Farm, Households, Post-harvest, and Harvest.
+*Retail is the largest contributor. It accounts for 135 records (23.0%).
+*The 80% line is crossed at the sixth stage. The first five stages cover 76.79%, and adding Harvest makes the total 83.62%.
 
 
 ## **Limitations**
 
-* Medians are not weighted by production volume, so they show reported loss.
+* Medians are not weighted by production volume, so they show typical reported loss, not total food lost.
 * Some countries, commodities, and stages have few records, so their medians are less stable, and years 2022 to 2024 also have fewer records.
 * Loss and waste are reported in a single field, `loss_percentage`.
 * Whole-supply-chain, World, and regional aggregate rows are excluded to avoid double counting.
-* A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for pareto analysis.
+* A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for Pareto analysis.
 
 ## Repository Contents
 
