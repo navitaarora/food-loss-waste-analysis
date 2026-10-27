@@ -20,9 +20,9 @@
 
 ## **Methodology**
 
-1. **Data Collection:** Obtained the FAO Food Loss and Waste Database, covering reported food-loss observations from 2000 to 2024.
+1. **Data Collection:** Obtained the FAO Food Loss and Waste Database, covering reported food loss  from 2000-2024.
 
-2. **Data Cleaning:** Removed exact duplicate records and records with missing food supply-chain stages, reducing the dataset from 31,455 raw rows to 27,884 rows. Retained nine relevant fields out of the original 18 columns for analysis.
+2. **Data Cleaning:** Removed exact duplicate rows and rows with missing food supply-chain stages, reducing the dataset from 31,455 raw rows to 27,884 rows. Retained nine relevant fields out of the original 18 columns for analysis.
 
 3. **Data Filtering in Tableau:** Excluded whole-supply-chain records and World/regional aggregates to avoid double counting and improve comparability. The final analysis dataset contained 21,777 records from 115 countries across 19 supply-chain stages.
 
@@ -32,7 +32,7 @@
 
 6. **Pareto Analysis:** Classified records with reported food loss of 20% or more as high-loss records, using a project-defined threshold. Counted these records by supply-chain stage and calculated cumulative percentages to identify the stages accounting for the largest share of high-loss records.
 
-7. **Dashboard:** Built an interactive Tableau Public dashboard to present the number of records by  country, median loss % by year,  top 10 commodities by median loss % (at least 30 observations), food supply stage by median loss % (at least 30 records), and the Pareto analysis.
+7. **Dashboard:** Built an interactive Tableau Public dashboard to present the number of records by  country, median loss % by year,  top 10 commodities by median loss % (at least 30 records), food supply stage by median loss % (at least 30 records), and the Pareto analysis.
 
 8. **Validation and Interpretation:** Checked reported findings against the cleaned data and documented limitations, including uneven record coverage and unweighted medians.
 ## Dashboard: Food Loss and Waste Analysis
