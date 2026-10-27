@@ -53,6 +53,7 @@ Dashboard:https://public.tableau.com/views/FoodLossandWasteAnalysis/FoodLossandW
 Pareto Analysis: https://public.tableau.com/views/FoodLossandWasteAnalysis/ParetoAnalysisofHigh-LossRecordsbyFoodSupplyStage
 
 A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for the Pareto analysis. 
+
 **Key Insights**
 *A Pareto analysis of the 586 high-loss records (20% or more) showed that six of the 19 stages account for 83.6% of them, with Retail the largest at 23.04%.
 High-loss records are concentrated. 
@@ -65,7 +66,6 @@ High-loss records are concentrated.
 
 * Medians are not weighted by production volume, so they show typical reported loss, not total food lost.
 * Some countries, commodities, and stages have few records, so their medians are less stable, and years 2022 to 2024 also have fewer records.
-* Loss and waste are reported in a single field, `loss_percentage`.
 * Whole-supply-chain, World, and regional aggregate rows are excluded to avoid double counting.
 * A record is classified as high-loss when its reported loss is 20% or more. This is a project-defined threshold, used only for Pareto analysis.
 
