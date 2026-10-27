@@ -18,8 +18,8 @@
 4. Analysis: The records for the whole supply chain and the World and regional aggregates were all excluded to avoid errors. The final set consisted of 21,777 records from 115 countries across 19 stages.
 5. Loss % was presented as the median by stage, commodity, and year; record counts were shown by country. The median was used because the values are skewed.
 6. Visualisation:  Interactive Tableau dashboard.
-7. Pareto analysis: the records with a loss of 20% or more were tallied by stage to see where the high loss records were concentrated.
-8. Validation: all the figures have been checked against the raw data, and the limitations of the project were noted.  
+7. Pareto analysis: the records with a loss of 20% or more were tallied by stage to see where the high-loss records were concentrated.
+8. Validation: All the figures have been checked against the raw data, and the limitations of the project were noted.  
 Dashboard: https://public.tableau.com/views/FoodLossandWasteAnalysis/FoodLossandWasteAnalysis
 
 **Key Insights**
@@ -30,7 +30,8 @@ Dashboard: https://public.tableau.com/views/FoodLossandWasteAnalysis/FoodLossand
 * The number of records by country is uneven. India (1,233 records), Ethiopia (992), and Kenya (909) dominate, which limits country-level comparison.
 
 A Pareto analysis of the 586 high-loss records (20% or more) showed that six of the 19 stages account for 83.6% of them, with Retail the largest at 23%.
-Pareto Analysis Link: https://public.tableau.com/views/FoodLossandWasteAnalysis/ParetoAnalysisofHigh-LossRecordsbyFoodSupplyStage
+
+[View the interactive Pareto Analysis on Tableau Public]
 ## **Limitations**
 
 * Medians are not weighted by production volume, so they show reported loss.
