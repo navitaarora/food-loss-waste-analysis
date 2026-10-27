@@ -20,7 +20,7 @@
 6. Visualisation:  Interactive Tableau dashboard.
 7. Pareto analysis: the records with a loss of 20% or more were tallied by stage to see where the high loss records were concentrated.
 8. Validation: all the figures have been checked against the raw data, and the limitations of the project was noted.  
-Dashboard: https://public.tableau.com/views/FoodlossandWasteanalysis/GlobalFoodLossandAnalysis
+Dashboard: https://public.tableau.com/views/FoodLossandWasteAnalysis/FoodLossandWasteAnalysis
 
 **Key Insights**
 
